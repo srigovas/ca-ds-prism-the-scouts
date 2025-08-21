@@ -1,0 +1,456 @@
+title,summary link,rfp link,addendum,corrigendum,RM,status,due dates,document_comparison,capabilty comparison,internal_id,external id,sort_date
+"REQUEST FOR EMPANELMENT (RFE)
+OF
+STARTUPS, FINTECHS, AND DIGITAL CAPABILITY
+PARTNERS (DCPs)
+FOR
+DEVELOPMENT, CUSTOMIZATION, AND
+INTEGRATION OF DIGITAL SOLUTIONS",/Users/srigovarasan.sakthivel/Downloads/RFP_DB/outputs/FinTech/FinTech Onboarding RFE FOR AI ML DRIVEN DOCUMENT VETTING_SV_21072025.pdf_tech_summary.txt,/Users/srigovarasan.sakthivel/Downloads/RFP_DB/fresh_rfp_documents/FinTech Onboarding RFE FOR AI ML DRIVEN DOCUMENT VETTING_SV_21072025.pdf,,,Hardik Shah,," [
+    {
+      ""event"": ""Last date for requesting clarification"",
+      ""due_date"": ""2025-07-29"",
+      ""due_time"": ""17:00:00""
+    },
+    {
+      ""event"": ""Last date and time for Bid submission"",
+      ""due_date"": ""2025-08-20"",
+      ""due_time"": ""17:00:00""
+    }
+  ]
+","{
+  ""best_overall_score"": 54.09,
+  ""best_matching_rfp"": ""SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS"",
+  ""best_matching_rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS.zip"",
+  ""best_matching_category_breakdown"": {
+    ""Company Documents"": 50.55,
+    ""Financial Documents"": 53.62,
+    ""Compliance Documents"": 54.41,
+    ""Legal Documents"": 67.82,
+    ""Technical Documents"": 41.68,
+    ""Experience Documents"": 56.47
+  },
+  ""previous_rfp_matches"": [
+    {
+      ""overall_score"": 53.49,
+      ""rfp_name"": ""SpoctoX - South Indian Bank RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SpoctoX - South Indian Bank RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 55.81,
+        ""Financial Documents"": 57.56,
+        ""Compliance Documents"": 49.3,
+        ""Legal Documents"": 56.02,
+        ""Technical Documents"": 47.6,
+        ""Experience Documents"": 54.67
+      }
+    },
+    {
+      ""overall_score"": 52.54,
+      ""rfp_name"": ""Hinduja RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/Hinduja RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 0.0,
+        ""Financial Documents"": 0.0,
+        ""Compliance Documents"": 52.54,
+        ""Legal Documents"": 0.0,
+        ""Technical Documents"": 0.0,
+        ""Experience Documents"": 0.0
+      }
+    },
+    {
+      ""overall_score"": 40.24,
+      ""rfp_name"": ""UBI RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/UBI RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 39.34,
+        ""Financial Documents"": 24.81,
+        ""Compliance Documents"": 48.54,
+        ""Legal Documents"": 49.62,
+        ""Technical Documents"": 40.56,
+        ""Experience Documents"": 38.55
+      }
+    }
+  ]
+}","{
+  ""best_overall_score"": 53.43,
+  ""best_matching_rfp"": ""SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS"",
+  ""best_matching_rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS.zip"",
+  ""best_matching_category_breakdown"": {
+    ""company_capability"": 66.09,
+    ""technical_capacity"": 63.27,
+    ""product_capacity"": 30.94
+  },
+  ""previous_rfp_matches"": [
+    {
+      ""overall_score"": 40.42,
+      ""rfp_name"": ""SpoctoX - South Indian Bank RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SpoctoX - South Indian Bank RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 47.85,
+        ""technical_capacity"": 43.43,
+        ""product_capacity"": 29.99
+      }
+    },
+    {
+      ""overall_score"": 37.91,
+      ""rfp_name"": ""UBI RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/UBI RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 42.65,
+        ""technical_capacity"": 41.61,
+        ""product_capacity"": 29.48
+      }
+    },
+    {
+      ""overall_score"": 32.12,
+      ""rfp_name"": ""Hinduja RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/Hinduja RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 27.74,
+        ""technical_capacity"": 31.89,
+        ""product_capacity"": 36.74
+      }
+    }
+  ]
+}",abc,123.0,
+"Procurement of Additional 2500 Licenses for endpoint DLP
+Solution",/Users/srigovarasan.sakthivel/Downloads/RFP_DB/outputs/GeM/GeM-Bidding-74067952025_01_21_08_53_52.pdf_tech_summary.txt,/Users/srigovarasan.sakthivel/Downloads/RFP_DB/fresh_rfp_documents/GeM-Bidding-74067952025_01_21_08_53_52_extracted.pdf,,,,,"[
+    {
+      ""event"": ""Bid End Date"",
+      ""due_date"": ""2025-02-11"",
+      ""due_time"": ""16:00:00""
+    },
+    {
+      ""event"": ""Bid Opening Date"",
+      ""due_date"": ""2025-02-11"",
+      ""due_time"": ""16:30:00""
+    },
+    {
+      ""event"": ""Pre-Bid Meeting"",
+      ""due_date"": ""2025-01-31"",
+      ""due_time"": ""15:00:00""
+    },
+    {
+      ""event"": ""Pre-bid Queries Submission Deadline"",
+      ""due_date"": ""2025-01-30"",
+      ""due_time"": ""17:00:00""
+    }
+  ]","{
+  ""best_overall_score"": 38.65,
+  ""best_matching_rfp"": ""SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS"",
+  ""best_matching_rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS.zip"",
+  ""best_matching_category_breakdown"": {
+    ""Company Documents"": 41.36,
+    ""Financial Documents"": 35.33,
+    ""Compliance Documents"": 52.09,
+    ""Legal Documents"": 43.2,
+    ""Technical Documents"": 35.82,
+    ""Experience Documents"": 24.1
+  },
+  ""previous_rfp_matches"": [
+    {
+      ""overall_score"": 38.49,
+      ""rfp_name"": ""SpoctoX - South Indian Bank RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SpoctoX - South Indian Bank RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 43.67,
+        ""Financial Documents"": 36.45,
+        ""Compliance Documents"": 37.7,
+        ""Legal Documents"": 44.91,
+        ""Technical Documents"": 32.28,
+        ""Experience Documents"": 35.93
+      }
+    },
+    {
+      ""overall_score"": 36.82,
+      ""rfp_name"": ""UBI RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/UBI RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 51.0,
+        ""Financial Documents"": 21.43,
+        ""Compliance Documents"": 46.19,
+        ""Legal Documents"": 46.48,
+        ""Technical Documents"": 28.81,
+        ""Experience Documents"": 26.99
+      }
+    },
+    {
+      ""overall_score"": 31.37,
+      ""rfp_name"": ""Hinduja RFP"",
+      ""rfp_link"": ""gs://prism-5x-scouts/Knowledge_base/Previous_RFP/Hinduja RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 0.0,
+        ""Financial Documents"": 0.0,
+        ""Compliance Documents"": 31.37,
+        ""Legal Documents"": 0.0,
+        ""Technical Documents"": 0.0,
+        ""Experience Documents"": 0.0
+      }
+    }
+  ]
+}","{
+  ""best_overall_score"": 44.27,
+  ""best_matching_rfp"": ""SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS"",
+  ""best_matching_rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS.zip"",
+  ""best_matching_category_breakdown"": {
+    ""company_capability"": 45.32,
+    ""technical_capacity"": 41.64,
+    ""product_capacity"": 45.85
+  },
+  ""previous_rfp_matches"": [
+    {
+      ""overall_score"": 38.04,
+      ""rfp_name"": ""UBI RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/Previous_RFP/UBI RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 40.56,
+        ""technical_capacity"": 37.63,
+        ""product_capacity"": 35.93
+      }
+    },
+    {
+      ""overall_score"": 36.73,
+      ""rfp_name"": ""SpoctoX - South Indian Bank RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SpoctoX - South Indian Bank RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 46.73,
+        ""technical_capacity"": 37.37,
+        ""product_capacity"": 26.08
+      }
+    },
+    {
+      ""overall_score"": 22.91,
+      ""rfp_name"": ""Hinduja RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/Hinduja RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 28.59,
+        ""technical_capacity"": 22.14,
+        ""product_capacity"": 18.01
+      }
+    }
+  ]
+}",abc,123.0,
+"Onboarding Fintech API Service Provider to integrate MSME related API’s in Digital
+Lending Platform as a BCP arrangement for a period of one year",/Users/srigovarasan.sakthivel/Downloads/RFP_DB/outputs/e99/e9956863c32b40ef8e4eefce46b067b7.pdf_tech_summary.txt,/Users/srigovarasan.sakthivel/Downloads/RFP_DB/fresh_rfp_documents/e9956863c32b40ef8e4eefce46b067b7.pdf,,,,,"[
+    {
+      ""event"": ""Last Date, Time and Venue for Submission of Bids"",
+      ""due_date"": ""2024-10-07"",
+      ""due_time"": ""15:00:00""
+    },
+    {
+      ""event"": ""Date, Time & Venue for opening of Technical Proposals"",
+      ""due_date"": ""2024-10-07"",
+      ""due_time"": ""15:30:00""
+    }
+  ]","{
+  ""best_overall_score"": 49.44,
+  ""best_matching_rfp"": ""SpoctoX - South Indian Bank RFP"",
+  ""best_matching_rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SpoctoX - South Indian Bank RFP.zip"",
+  ""best_matching_category_breakdown"": {
+    ""Company Documents"": 0.0,
+    ""Financial Documents"": 37.77,
+    ""Compliance Documents"": 41.64,
+    ""Legal Documents"": 65.73,
+    ""Technical Documents"": 50.65,
+    ""Experience Documents"": 51.41
+  },
+  ""previous_rfp_matches"": [
+    {
+      ""overall_score"": 48.28,
+      ""rfp_name"": ""UBI RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/UBI RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 0.0,
+        ""Financial Documents"": 43.18,
+        ""Compliance Documents"": 46.89,
+        ""Legal Documents"": 51.34,
+        ""Technical Documents"": 51.66,
+        ""Experience Documents"": 48.33
+      }
+    },
+    {
+      ""overall_score"": 35.93,
+      ""rfp_name"": ""SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 0.0,
+        ""Financial Documents"": 27.33,
+        ""Compliance Documents"": 33.89,
+        ""Legal Documents"": 57.19,
+        ""Technical Documents"": 37.74,
+        ""Experience Documents"": 23.48
+      }
+    },
+    {
+      ""overall_score"": 33.67,
+      ""rfp_name"": ""Hinduja RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/Hinduja RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 0.0,
+        ""Financial Documents"": 0.0,
+        ""Compliance Documents"": 33.67,
+        ""Legal Documents"": 0.0,
+        ""Technical Documents"": 0.0,
+        ""Experience Documents"": 0.0
+      }
+    }
+  ]
+}","{
+  ""best_overall_score"": 45.32,
+  ""best_matching_rfp"": ""SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS"",
+  ""best_matching_rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS.zip"",
+  ""best_matching_category_breakdown"": {
+    ""company_capability"": 42.58,
+    ""technical_capacity"": 54.8,
+    ""product_capacity"": 38.59
+  },
+  ""previous_rfp_matches"": [
+    {
+      ""overall_score"": 43.98,
+      ""rfp_name"": ""SpoctoX - South Indian Bank RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SpoctoX - South Indian Bank RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 46.52,
+        ""technical_capacity"": 44.05,
+        ""product_capacity"": 41.36
+      }
+    },
+    {
+      ""overall_score"": 43.12,
+      ""rfp_name"": ""UBI RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/UBI RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 43.93,
+        ""technical_capacity"": 48.59,
+        ""product_capacity"": 36.84
+      }
+    },
+    {
+      ""overall_score"": 29.31,
+      ""rfp_name"": ""Hinduja RFP"",
+      ""rfp_link"": ""gs://prism-5x-scouts/Knowledge_base/Previous_RFP/Hinduja RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 27.17,
+        ""technical_capacity"": 31.96,
+        ""product_capacity"": 28.81
+      }
+    }
+  ]
+}",abc,123.0,
+"SELECTION OF SERVICE PROVIDER FOR SUPPLY, CONFIGURATION,
+IMPLEMENTATION AND MAINTENANCE OF ENDPOINT DATA LOSS PREVENTION (DLP)
+SOLUTION",/Users/srigovarasan.sakthivel/Downloads/RFP_DB/outputs/ecc/ecc1dfb538ee438e8370c20bcd205391.pdf_tech_summary.txt,/Users/srigovarasan.sakthivel/Downloads/RFP_DB/fresh_rfp_documents/ecc1dfb538ee438e8370c20bcd205391.pdf,,,,," [
+    {
+      ""event"": ""Date & Time of Pre-Bid Meeting"",
+      ""due_date"": ""2024-06-26"",
+      ""due_time"": ""16:00:00""
+    },
+    {
+      ""event"": ""Pre-bid queries to be sent by E-mail"",
+      ""due_date"": ""2024-06-24"",
+      ""due_time"": ""14:00:00""
+    },
+    {
+      ""event"": ""Last Date and Time for Submission of Bids"",
+      ""due_date"": ""2024-07-08"",
+      ""due_time"": ""15:00:00""
+    },
+    {
+      ""event"": ""Date, Time & Venue for Opening of Part A- Conformity to Eligibility Criteria"",
+      ""due_date"": ""2024-07-08"",
+      ""due_time"": ""15:30:00""
+    }
+  ]","{
+  ""best_overall_score"": 53.08,
+  ""best_matching_rfp"": ""SpoctoX - South Indian Bank RFP"",
+  ""best_matching_rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SpoctoX - South Indian Bank RFP.zip"",
+  ""best_matching_category_breakdown"": {
+    ""Company Documents"": 58.02,
+    ""Financial Documents"": 41.61,
+    ""Compliance Documents"": 47.27,
+    ""Legal Documents"": 59.03,
+    ""Technical Documents"": 50.25,
+    ""Experience Documents"": 62.32
+  },
+  ""previous_rfp_matches"": [
+    {
+      ""overall_score"": 48.76,
+      ""rfp_name"": ""UBI RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/UBI RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 53.69,
+        ""Financial Documents"": 46.91,
+        ""Compliance Documents"": 40.95,
+        ""Legal Documents"": 56.99,
+        ""Technical Documents"": 49.1,
+        ""Experience Documents"": 44.9
+      }
+    },
+    {
+      ""overall_score"": 40.13,
+      ""rfp_name"": ""Hinduja RFP"",
+      ""rfp_link"": ""gs://prism-5x-scouts/Knowledge_base/Previous_RFP/Hinduja RFP.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 0.0,
+        ""Financial Documents"": 0.0,
+        ""Compliance Documents"": 40.13,
+        ""Legal Documents"": 0.0,
+        ""Technical Documents"": 0.0,
+        ""Experience Documents"": 0.0
+      }
+    },
+    {
+      ""overall_score"": 39.61,
+      ""rfp_name"": ""SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS.zip"",
+      ""category_breakdown"": {
+        ""Company Documents"": 59.42,
+        ""Financial Documents"": 29.44,
+        ""Compliance Documents"": 41.39,
+        ""Legal Documents"": 47.17,
+        ""Technical Documents"": 35.11,
+        ""Experience Documents"": 25.12
+      }
+    }
+  ]
+}","{
+  ""best_overall_score"": 47.13,
+  ""best_matching_rfp"": ""SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS"",
+  ""best_matching_rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SBI RFE - DEVELOPMENT, CUSTOMIZATION, AND INTEGRATION OF DIGITAL SOLUTIONS.zip"",
+  ""best_matching_category_breakdown"": {
+    ""company_capability"": 45.27,
+    ""technical_capacity"": 48.62,
+    ""product_capacity"": 47.49
+  },
+  ""previous_rfp_matches"": [
+    {
+      ""overall_score"": 41.67,
+      ""rfp_name"": ""UBI RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/UBI RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 41.38,
+        ""technical_capacity"": 45.33,
+        ""product_capacity"": 38.3
+      }
+    },
+    {
+      ""overall_score"": 38.51,
+      ""rfp_name"": ""SpoctoX - South Indian Bank RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/SpoctoX - South Indian Bank RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 41.88,
+        ""technical_capacity"": 43.49,
+        ""product_capacity"": 30.16
+      }
+    },
+    {
+      ""overall_score"": 27.67,
+      ""rfp_name"": ""Hinduja RFP"",
+      ""rfp_link"": ""/Users/srigovarasan.sakthivel/Downloads/RFP_DB/past_rfp_zip/Hinduja RFP.zip"",
+      ""category_breakdown"": {
+        ""company_capability"": 28.94,
+        ""technical_capacity"": 28.33,
+        ""product_capacity"": 25.73
+      }
+    }
+  ]
+}",,,
